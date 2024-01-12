@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1705071966 source:c:\users\soporte pc\documents\c++\medidas de ordenamiento\src\metodosdeordenamientos.cpp
+	"metodosDeOrdenamientos.hpp"
+	<chrono>
+
+1704836084 c:\users\soporte pc\documents\c++\medidas de ordenamiento\src\metodosdeordenamientos.hpp
+	<vector>
+	<map>
+	<string>
+	<iomanip>
+
+1705097995 source:c:\users\soporte pc\documents\c++\medidas de ordenamiento\src\main.cpp
+	<algorithm>
+	<chrono>
+	<cstdlib>
+	<iostream>
+	<random>
+	<thread>
+	<unordered_set>
+	<vector>
+	"metodosDeOrdenamientos.hpp"
+
